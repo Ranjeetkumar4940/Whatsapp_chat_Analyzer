@@ -1,2 +1,6 @@
 urlextract
 wordcloud
+seaborn
+matplotlib
+re
+pandas
